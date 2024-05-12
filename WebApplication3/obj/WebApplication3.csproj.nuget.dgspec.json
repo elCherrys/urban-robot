@@ -67,6 +67,14 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Twilio.AspNet.Core": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

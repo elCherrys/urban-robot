@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|c:\\users\\qizi\\source\\repos\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|c:\\users\\qizi\\source\\repos\\webapplication3\\webapplication3\\controllers\\supercontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\supercontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|c:\\users\\qizi\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|c:\\users\\qizi\\source\\repos\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|c:\\users\\qizi\\source\\repos\\webapplication3\\webapplication3\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,10 +30,6 @@
       "RelativeMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|c:\\users\\qizi\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|c:\\users\\qizi\\source\\repos\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{74A04DDC-559E-4177-A163-4C46896B3956}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -45,11 +45,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\WeatherForecastController.cs",
@@ -57,22 +57,17 @@
               "RelativeToolTip": "WebApplication3\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:19:57.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-05-11T02:19:57.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
               "ToolTip": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
               "RelativeToolTip": "WebApplication3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T07:53:53.87Z",
               "EditorCaption": ""
@@ -87,25 +82,24 @@
               "RelativeToolTip": "WebApplication3\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T07:53:53.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:53:53.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WebApplication3.csproj",
               "DocumentMoniker": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
               "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
               "ToolTip": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
               "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-10T07:53:50.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Data\\DataContext.cs",
@@ -113,35 +107,24 @@
               "RelativeToolTip": "WebApplication3\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:53:51.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:53:51.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.Notes [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DbNotes/True/SqlTable/dbo.Notes.sql",
-              "ToolTip": "dbo.Notes [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-11T02:18:18.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "superControllerr.cs",
               "DocumentMoniker": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\superControllerr.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\superControllerr.cs",
               "ToolTip": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\superControllerr.cs",
               "RelativeToolTip": "WebApplication3\\Controllers\\superControllerr.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAcwEwAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T05:30:29.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\Qizi\\source\\repos\\WebApplication3\\WebApplication3\\Entities\\Note.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Entities\\Note.cs",
@@ -149,8 +132,7 @@
               "RelativeToolTip": "WebApplication3\\Entities\\Note.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T05:26:53.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T05:26:53.095Z"
             },
             {
               "$type": "Document",
@@ -162,12 +144,20 @@
               "RelativeToolTip": "WebApplication3\\Migrations\\20240511013755_Initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T01:37:57.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T01:37:57.945Z"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Notes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DbNotes/True/SqlTable/dbo.Notes.sql",
+              "ToolTip": "dbo.Notes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T02:18:18.323Z"
             }
           ]
         }

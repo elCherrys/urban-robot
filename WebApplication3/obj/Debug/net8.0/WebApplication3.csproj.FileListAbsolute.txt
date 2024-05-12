@@ -134,3 +134,8 @@ C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\runt
 C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.sourcelink.json
+C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Twilio.dll
+C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Twilio.AspNet.Common.dll
+C:\Users\Qizi\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Twilio.AspNet.Core.dll

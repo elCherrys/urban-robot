@@ -35,7 +35,7 @@ namespace WebApplication3.Controllers
             if (note is null)
                 return BadRequest("Nota no encontrada");
 
-            string accountSid = "AC30c9633e0ecdd4bbb97d8acc0d0d6288";
+            string accountSid = "";
             string authToken = "";
 
             TwilioClient.Init(accountSid, authToken);

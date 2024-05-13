@@ -36,7 +36,7 @@ namespace WebApplication3.Controllers
                 return BadRequest("Nota no encontrada");
 
             string accountSid = "AC30c9633e0ecdd4bbb97d8acc0d0d6288";
-            string authToken = "fdedc7cd575849c6684890ab9e8bc436";
+            string authToken = "";
 
             TwilioClient.Init(accountSid, authToken);
             var message = MessageResource.Create(
